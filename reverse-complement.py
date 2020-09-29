@@ -9,10 +9,10 @@ AUTHOR
 	Hely Salgado
     
 DESCRIPTION
-	Make the reverse complement of a DNA sequence
+	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequence
+	Genomic Sequences
     
 USAGE
 
@@ -20,7 +20,7 @@ USAGE
     
     example
     
-    % python reverse-complement -i sequence.txt
+    % python reverse-complement -i
 
 '''
 

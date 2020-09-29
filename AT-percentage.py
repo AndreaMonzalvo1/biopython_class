@@ -10,7 +10,7 @@ AUTHOR
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
 
-CATEGORY
+CATEGORYS
         Genomic sequence
 
 USAGE

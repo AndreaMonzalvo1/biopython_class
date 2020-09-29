@@ -12,7 +12,7 @@ DESCRIPTION
 	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequences
+	Genomics Sequences
     
 USAGE
 

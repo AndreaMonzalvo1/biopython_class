@@ -9,7 +9,7 @@ AUTHOR
 	Hely Salgado
     
 DESCRIPTION
-	Make the reverse complement of DNA sequence
+	Make the reverse complement of a DNA sequence
     
 CATEGORY
 	Genomic Sequence
